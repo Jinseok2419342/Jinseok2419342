@@ -25,7 +25,7 @@ Here are some of the tools and technologies I use:
 <br><br>
 
 ## 🌍 Connect with Me
-- [📫 Email](mailto:fjwkrtua@dongyang.ac.kr)  
+- [📫 Email](mailto:fjwkrtua@dongyang.ac.kr)
 <br><br>
 
 Thanks for visiting my profile!
