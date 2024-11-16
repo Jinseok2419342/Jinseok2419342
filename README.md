@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/user-attachments/assets/ad6ad968-b498-4b7f-82e0-07a37db2d88e" width="50" alt="Hi"> Hello, I'm **Jinseok2419342**!
+# <img src="https://github.com/user-attachments/assets/ad6ad968-b498-4b7f-82e0-07a37db2d88e" width="60" alt="Hi"> Hello, I'm **Jinseok2419342**!
 
 🌱 I'm a Student passionate about learning and exploring new technologies.<br><br>     
   
@@ -20,28 +20,18 @@ Here are some of the tools and technologies I use:
 
 
 ## 🌟 About Me
-- 📖 I’m currently learning more about **web development** and **mobile app development**.  
-- 🎯 My goal is to build interactive websites and apps that are both functional and fun.  
-- ⚡ Fun fact: I love solving puzzles and exploring creative ideas in tech!
-
----
-
-## 🚀 Current Projects
-Here are some things I'm working on:
-- 🔨 Learning how to build mobile apps using **Swift**.
-- 🌐 Experimenting with **HTML** and **CSS** to design simple websites.
-- 🐍 Creating small Python scripts to automate tasks.
-
----
-
+- 🎓 I’m a student with a passion for exploring new ideas and solving problems.
+- 🎯 My mission is to challenge myself, learn as much as I can, and have fun while doing it!
+<br><br>
 
 ## 🌍 Connect with Me
 - [📫 Email](mailto:fjwkrtua@dongyang.ac.kr)  
+<br><br>
 
----
-
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
 Have a nice day ever
-<h1><img src="https://github.com/user-attachments/assets/30271b9e-1d75-4296-8369-b9eff65bce59" width=80"/> Have a nice day ever</h1>
+
+Have a nice day ever  <img src="https://github.com/user-attachments/assets/998f0a1f-28dd-41d8-9bb2-0c78ae1dccd5" width="40" alt="Goodbye"> 
+
 
 
